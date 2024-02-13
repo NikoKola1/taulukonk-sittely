@@ -3,6 +3,7 @@ body {
 }
 input {
     margin-bottom: 16px;
+    margin-left: 10px;
 }
 span {
     margin-left: 16px;
@@ -19,4 +20,10 @@ tr:nth-child(even) {
 
 td {
     padding: 4px;
+}
+button {
+    margin-left: 10px;
+}
+h3 {
+    margin-left: 10px;
 }
